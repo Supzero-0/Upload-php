@@ -1,0 +1,31 @@
+section {
+    display: flex;
+    flex-direction: column;
+    background-color: whitesmoke;
+    width: 50%;
+}
+
+section h2 {
+    background-color: aqua;
+    color: white;
+    margin: 0;
+    text-align: center;
+}
+
+section div {
+    display: flex;
+}
+
+section div div {
+    display: flex;
+    flex-direction: column;
+}
+
+td {
+    text-align: center;
+}
+
+h3 {
+    background-color: aqua;
+    color: white;
+}
